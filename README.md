@@ -26,7 +26,7 @@ $ yarn
 
 ```
 
-## :triangular_flag_on_post: Desafio <a name="challenge"></a>
+## :triangular_flag_on_post: Executar local <a name="challenge"></a>
 
 ```bash
 # Testando via Postman ( client ), execute o comando para subir o servidor.
