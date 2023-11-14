@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/img/grpc-icon-color.png"/></h1>
+<h1 align="center"><img src="assets/img/imgGrpc.png"/></h1>
 
 <h3 align="center">GRPC no Typescript</h3>
 
